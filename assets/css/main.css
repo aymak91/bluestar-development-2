@@ -1309,7 +1309,7 @@ input, select, textarea {
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
-			min-width: 40rem;
+			min-width: 20rem;
 		}
 
 			#header .content .inner {
@@ -1323,7 +1323,7 @@ input, select, textarea {
 				transition-delay: 0.25s;
 				padding: 3rem 2rem;
 				max-height: 20rem;
-				min-width: 40rem;
+				min-width: 20rem;
 				overflow: hidden;
 			}
 
